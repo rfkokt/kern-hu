@@ -1,0 +1,5 @@
+apk/
+hu-diag-*.txt
+hu-packages-*.txt
+hu-removed.txt*
+.DS_Store

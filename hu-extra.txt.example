@@ -1,0 +1,3 @@
+# Salin jadi hu-extra.txt, isi 1 nama paket per baris (dari hu-packages-*.txt), lalu:
+#   ./hu-debloat.sh extra
+# com.contoh.bloatseller
